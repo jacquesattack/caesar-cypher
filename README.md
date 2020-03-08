@@ -1,32 +1,14 @@
 # caesar-cypher
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+Product cypher text with a Caesarian cypher.
 
 ## Usage
 
-FIXME: explanation
+Run the program with a text file as input:
 
-    $ java -jar caesar-cypher-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+    $ echo "The quick brown fox jumps over the lazy dog." > /tmp/foo
+    $ lein run /tmp/foo
+    $ > esp BFtnv mCzHy qzI uFxAD zGpC Esp wlKJ ozr.
 
 ## License
 
